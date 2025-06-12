@@ -1,6 +1,7 @@
 body{
     background-color: black;
     color: rgb(251, 251, 252);
-    font-size: 75px;
+    font-size: 150px;
+    align-items: center;
     font-family: 'Times New Roman', Times, serif;
 }
