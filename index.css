@@ -17,4 +17,5 @@ header{
 .pergunta{
     border: solid 2px red;
     background-color: rgb(177, 126, 126);
+    opacity: 0.5;
 }
