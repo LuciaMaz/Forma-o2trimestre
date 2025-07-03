@@ -25,5 +25,9 @@ section{
     padding-top: 80px;
     padding-left: 80px;
     display: flex;
+    justify-content: center;
 
+}
+.primeira{
+    margin-right: 5%;
 }
